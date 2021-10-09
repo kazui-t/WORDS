@@ -13,7 +13,7 @@
 ました。
 
 ### ターゲットユーザ
-
+よく物を無くす人、お店をコーディネートしている人
 
 ### 主な利用シーン
 店舗のレイアウトを計画するとき、家の中で物を無くしたときなどに使う
@@ -22,7 +22,7 @@
 
 
 ## チャレンジ要素一覧
-<https://docs.google.com/spreadsheets/d/1UxBK2scrIRa3IO_8ucUcMOYKC6i12wPYGXAhvTmFOUI/edit?usp=sharing>
+
 
 ## 開発環境
 - OS：Linux(CentOS)
